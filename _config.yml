@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: Ov23li4H2MaW8rzJllNX                            #生成的clientID
   clientSecret: 3253557d20c799025b635be2174456484cf9b5b6    #生成的clientSecret
-  repo: KeQianWang.github.io    #仓库名称
+  repo: Blog-Comment    #仓库名称
   owner: 765197130@qq.com    #github用户名
   admin: [765197130@qq.com]
   language: zh-CN
