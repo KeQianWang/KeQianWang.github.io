@@ -32,13 +32,12 @@
 
 ```
 # Site settings
-title: BY Blog                    # 你的博客网站标题
-SEOTitle: 柏荧的博客 | BY Blog		# SEO 标题
+title: KeQian Blog                    # 你的博客网站标题
+SEOTitle: KeQian的博客 | King's Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
-github_username: qiubaiying     # 你的github账号
-jianshu_username: e71990ada2fd  # 你的简书ID。
+github_username: KeQianWang     # 你的github账号
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
@@ -58,7 +57,7 @@ layout:     post
 title:      定时器 你真的会使用吗？
 subtitle:   iOS定时器详解
 date:       2016-12-13
-author:     BY
+author:     KeQian
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags:
@@ -178,7 +177,7 @@ iframe在不同的设备中，将会自动的调整大小。保留内边距是�
 ```
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: qiubaiying
+disqus_username: KeQian
 ```
 
 #### Gitalk
@@ -198,7 +197,7 @@ ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # 你用Google账号去注册一个就会给你一个这样的id
-ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
+ga_domain: auto			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
 ```
 
 ### Customization
